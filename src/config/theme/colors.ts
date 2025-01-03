@@ -43,12 +43,12 @@ const darkColorScheme: MD3Colors = {
 
 const lightColorScheme: MD3Colors = {
     ...PaperLightTheme.colors,
-    primary: "#BAC8D8",
+    primary: "#FF741A",
     onPrimary: "#BAC8D8",
     primaryContainer: "#BAC8D8",
     onPrimaryContainer: "#BAC8D8",
 
-    secondary: "#BAC8D8",
+    secondary: "#8A8A8A",
     onSecondary: "#BAC8D8",
     secondaryContainer: "#BAC8D8",
     onSecondaryContainer: "#BAC8D8",
